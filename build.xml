@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <project name="gwt-html5-elements" default="build" basedir=".">
 	<!-- Configure path to GWT SDK -->
-	<property name="gwt.sdk" location="/home/markovuksanovic/devel/gwt-0.0.0" />
+	<property name="gwt.sdk" location="C:/Devel/gwt/trunk/build/staging/gwt-0.0.0" />
 	<property name="module.name"  value="${ant.project.name}"/>
 	<property name="jarfile.name" value="${module.name}.jar"/>
   	<property name="src"          location="src"/>
